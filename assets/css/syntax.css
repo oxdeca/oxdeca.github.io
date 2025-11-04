@@ -261,18 +261,18 @@
 .w3-2025-mauve-wine
 {color:#fff!important;background-color:#5B3644!important}
 
-.table td {
-  border: 1px solid;
-}
-
-.table th {
-  background-color:#5b3644;
-  border: 1px solid;
-}
-
 .language-plaintext {
   background-color:#464b65;
   color:#fff;
+}
+
+.post td {
+  border: 1px solid;
+}
+
+.post th {
+  background-color:#5b3644;
+  border: 1px solid;
 }
 
 .post h1 {
