@@ -1,0 +1,294 @@
+.highlight table td { padding: 5px; }
+.highlight table pre { margin: 0; }
+.highlight .gh {
+  color: #999999;
+}
+.highlight .sr {
+  color: #f6aa11;
+}
+.highlight .go {
+  color: #888888;
+}
+.highlight .gp {
+  color: #555555;
+}
+.highlight .gs {
+}
+.highlight .gu {
+  color: #aaaaaa;
+}
+.highlight .nb {
+  color: #f6aa11;
+}
+.highlight .cm {
+  color: #75715e;
+}
+.highlight .cp {
+  color: #75715e;
+}
+.highlight .c1 {
+  color: #75715e;
+}
+.highlight .cs {
+  color: #75715e;
+}
+.highlight .c, .highlight .ch, .highlight .cd, .highlight .cpf {
+  color: #75715e;
+}
+.highlight .err {
+  color: #960050;
+}
+.highlight .gr {
+  color: #960050;
+}
+.highlight .gt {
+  color: #960050;
+}
+.highlight .gd {
+  color: #49483e;
+}
+.highlight .gi {
+  color: #49483e;
+}
+.highlight .ge {
+  color: #49483e;
+}
+.highlight .kc {
+  color: #66d9ef;
+}
+.highlight .kd {
+  color: #66d9ef;
+}
+.highlight .kr {
+  color: #66d9ef;
+}
+.highlight .no {
+  color: #66d9ef;
+}
+.highlight .kt {
+  color: #66d9ef;
+}
+.highlight .mf {
+  color: #ae81ff;
+}
+.highlight .mh {
+  color: #ae81ff;
+}
+.highlight .il {
+  color: #ae81ff;
+}
+.highlight .mi {
+  color: #ae81ff;
+}
+.highlight .mo {
+  color: #ae81ff;
+}
+.highlight .m, .highlight .mb, .highlight .mx {
+  color: #ae81ff;
+}
+.highlight .sc {
+  color: #ae81ff;
+}
+.highlight .se {
+  color: #ae81ff;
+}
+.highlight .ss {
+  color: #ae81ff;
+}
+.highlight .sd {
+  color: #e6db74;
+}
+.highlight .s2 {
+  color: #e6db74;
+}
+.highlight .sb {
+  color: #e6db74;
+}
+.highlight .sh {
+  color: #e6db74;
+}
+.highlight .si {
+  color: #e6db74;
+}
+.highlight .sx {
+  color: #e6db74;
+}
+.highlight .s1 {
+  color: #e6db74;
+}
+.highlight .s, .highlight .sa, .highlight .dl {
+  color: #e6db74;
+}
+.highlight .na {
+  color: #a6e22e;
+}
+.highlight .nc {
+  color: #a6e22e;
+}
+.highlight .nd {
+  color: #a6e22e;
+}
+.highlight .ne {
+  color: #a6e22e;
+}
+.highlight .nf, .highlight .fm {
+  color: #a6e22e;
+}
+.highlight .vc {
+  color: #ffffff;
+  background-color: #272822;
+}
+.highlight .nn {
+  color: #ffffff;
+  background-color: #272822;
+}
+.highlight .nl {
+  color: #ffffff;
+  background-color: #272822;
+}
+.highlight .ni {
+  color: #ffffff;
+  background-color: #272822;
+}
+.highlight .bp {
+  color: #ffffff;
+  background-color: #272822;
+}
+.highlight .vg {
+  color: #ffffff;
+  background-color: #272822;
+}
+.highlight .vi {
+  color: #ffffff;
+  background-color: #272822;
+}
+.highlight .nv, .highlight .vm {
+  color: #ffffff;
+  background-color: #272822;
+}
+.highlight .w {
+  color: #ffffff;
+  background-color: #272822;
+}
+.highlight {
+  color: #ffffff;
+  background-color: #272822;
+}
+.highlight .n, .highlight .py, .highlight .nx {
+  color: #ffffff;
+  background-color: #272822;
+}
+.highlight .ow {
+  color: #f92672;
+}
+.highlight .nt {
+  color: #f92672;
+}
+.highlight .k, .highlight .kv {
+  color: #f92672;
+}
+.highlight .kn {
+  color: #f92672;
+}
+.highlight .kp {
+  color: #f92672;
+}
+.highlight .o {
+  color: #f92672;
+}
+
+
+.w3-2025-mocha-mousse
+{color:#fff!important;background-color:#A47864!important}
+.w3-2025-bran
+{color:#fff!important;background-color:#A66E4A!important}
+.w3-2025-crocus
+{color:#fff!important;background-color:#C67FAE!important}
+.w3-2025-lime-cream
+{color:#000!important;background-color:#D7E8BC!important}
+.w3-2025-limpet-shell
+{color:#000!important;background-color:#98DDDF!important}
+.w3-2025-white-grape
+{color:#fff!important;background-color:#A6BE47!important}
+.w3-2025-dejavu-blue
+{color:#fff!important;background-color:#2E5283!important}
+.w3-2025-kashmir
+{color:#fff!important;background-color:#6F8D6A!important}
+.w3-2025-misted-marigold
+{color:#000!important;background-color:#E3BD33!important}
+.w3-2025-orangeade
+{color:#fff!important;background-color:#E2552D!important}
+.w3-2025-cocoon
+{color:#fff!important;background-color:#C9B27C!important}
+.w3-2025-eclipse
+{color:#fff!important;background-color:#344148!important}
+.w3-2025-antique-white
+{color:#000!important;background-color:#EDE3D2!important}
+.w3-2025-rum-rasin
+{color:#fff!important;background-color:#583432!important}
+.w3-2025-moonbeam
+{color:#000!important;background-color:#CDC6BD!important}
+.w3-2025-blue-granite
+{color:#fff!important;background-color:#717388!important}
+.w3-2025-lemon-grass
+{color:#000!important;background-color:#DCD494!important}
+.w3-2025-brandied-melon
+{color:#fff!important;background-color:#D1805F!important}
+.w3-2025-lyons-blue
+{color:#fff!important;background-color:#005871!important}
+.w3-2025-damson, .table td
+{color:#fff!important;background-color:#854C65!important}
+.w3-2025-primrose-pink
+{color:#000!important;background-color:#EFDADD!important}
+.w3-2025-winterberry
+{color:#fff!important;background-color:#BE394F!important}
+.w3-2025-hot-chocolate
+{color:#fff!important;background-color:#704A49!important}
+.w3-2025-chili-oil
+{color:#fff!important;background-color:#8F3D37!important}
+.w3-2025-poppy-red
+{color:#fff!important;background-color:#DC343B!important}
+.w3-2025-bronze-brown
+{color:#fff!important;background-color:#82643E!important}
+.w3-2025-bright-white
+{color:#000!important;background-color:#F4F5F0!important}
+.w3-2025-french-roast
+{color:#fff!important;background-color:#58423F!important}
+.w3-2025-vapor-blue
+{color:#000!important;background-color:#BDBEBF!important}
+.w3-2025-crown-blue
+{color:#fff!important;background-color:#464B65!important}
+.w3-2025-mauve-wine
+{color:#fff!important;background-color:#5B3644!important}
+
+.table td {
+  border: 1px solid;
+}
+
+.table th {
+  background-color:#5b3644;
+  border: 1px solid;
+}
+
+.language-plaintext {
+  background-color:#464b65;
+  color:#fff;
+}
+
+.post h1 {
+  color:#fff!important;background-color:#464B65!important
+}
+.post h2 {
+  color:#fff!important;background-color:#2E5283!important
+}
+.post h3 {
+  color:#fff!important;background-color:#6F8D6A!important
+}
+.post strong em {
+  size:34;
+  color:#fff!important;background-color:#5B3644!important
+  color:#fff!important;background-color:#6F8D6A!important
+  color:#fff!important;background-color:#717388!important
+  #color:#fff!important;background-color:#6F8D6A!important
+  color:#fff!important;background-color:#344148!important
+}
